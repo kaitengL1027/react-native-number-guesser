@@ -16,21 +16,21 @@ Welcome to Number Guesser!
 
 Pick a number, and the computer will guess your number! 
 
-<img src="/public/assets/gifs/game_flow.gif" width="350"/>
+<img src="/assets/gifs/game_flow.gif" width="350"/>
 
 The times of computer's guesses will be recorded, and an end-of-game screen will show. 
 
 If you did not provide any number, an alert will pop up, and show you the range. 
 
-<img src="/public/assets/gifs/no_number.gif" width="350"/>
+<img src="/assets/gifs/no_number.gif" width="350"/>
 
 You can clear the input number if you wish to change it. 
 
-<img src="/public/assets/gifs/clear_number.gif" width="350"/>
+<img src="/assets/gifs/clear_number.gif" width="350"/>
 
 If you lie to the computer of the number, a prompt will show you not to lie! 
 
-<img src="/public/assets/gifs/dont_lie.gif" width="350"/>
+<img src="/assets/gifs/dont_lie.gif" width="350"/>
 
 ## Tech Stack
 This project used ReactJs, React Native, Expo, JavaScript and CSS. 
